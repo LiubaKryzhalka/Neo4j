@@ -11,7 +11,7 @@ namespace Neo4j
         {
             get
             {
-                GraphClient client = new GraphClient(new Uri("http://localhost:7687/"), "neo4j", "3026network");
+                GraphClient client = new GraphClient(new Uri("http://localhost:7474/"), "neo4j", "3026network");
                 client.ConnectAsync().Wait();
                 return client;
             }
