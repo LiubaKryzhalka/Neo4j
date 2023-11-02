@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using MongoDB.Driver;
+using MongoDB.Bson;
+using Neo4j;
+using Mongodb;
+
+namespace Mongodb
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Menu menu = new Menu();
+            menu.ShowMenu();
+        }
+    }
+}

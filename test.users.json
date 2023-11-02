@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "6535ae1340d341672baf8093"
+  },
+  "first_name": "Pavlyna",
+  "surname": "Bardadym",
+  "username": "pavlynaaa",
+  "password": "1111",
+  "email": "pav.b@gmail.com",
+  "interests": [
+    "Cooking"
+  ],
+  "subscribers": [
+    "bob.berk12",
+    "nastka",
+    "markBig"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535ae1340d341672baf8094"
+  },
+  "first_name": "Julia",
+  "surname": "Grey",
+  "username": "juliagrey",
+  "password": "1234",
+  "email": "nikita.ok@gmail.com",
+  "interests": [
+    "Dancing"
+  ],
+  "subscribers": [
+    "pavlynaaa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535ae1340d341672baf8095"
+  },
+  "first_name": "Bobby",
+  "surname": "Berk",
+  "username": "bob.berk12",
+  "password": "2322",
+  "email": "bobby.berk@gmail.com",
+  "interests": [
+    "Music",
+    "Reading",
+    "Art"
+  ],
+  "subscribers": [
+    "juliagrey",
+    "pavlynaaa",
+    "nastka"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535ae1340d341672baf8096"
+  },
+  "first_name": "Christina",
+  "surname": "Johnson",
+  "username": "christya16",
+  "password": "3333",
+  "email": "christina.johnson@gmail.com",
+  "interests": [
+    "Maths",
+    "Reading",
+    "Programming"
+  ],
+  "subscribers": [
+    "juliagrey",
+    "bob.berk12",
+    "markBig"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535ae1340d341672baf8097"
+  },
+  "first_name": "Dean",
+  "surname": "Larson",
+  "username": "bluebear",
+  "password": "4444",
+  "email": "dean.larson@gmail.com",
+  "interests": [
+    "Volleyball"
+  ],
+  "subscribers": [
+    "juliagrey",
+    "pavlynaaa",
+    "bob.berk12",
+    "levko"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535ae1340d341672baf8098"
+  },
+  "first_name": "Volodymyr",
+  "surname": "Kosinets",
+  "username": "kosinets",
+  "password": "5555",
+  "email": "volodyk.kos@gmail.com",
+  "interests": [
+    "Football"
+  ],
+  "subscribers": [
+    "chrystia16",
+    "bob.berk12",
+    "bluebear",
+    "pavlynaaa",
+    "markBig"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535ae1340d341672baf8099"
+  },
+  "first_name": "Andriy",
+  "surname": "Lev",
+  "username": "levko",
+  "password": "6767",
+  "email": "levko@gmail.com",
+  "interests": [
+    "Reading",
+    "Volleyball"
+  ],
+  "subscribers": [
+    "chrystia16",
+    "juliagrey",
+    "bluebear",
+    "kosinets"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535ae1340d341672baf809a"
+  },
+  "first_name": "Marcus",
+  "surname": "Valm",
+  "username": "markBig",
+  "password": "7777",
+  "email": "marcus.valm@gmail.com",
+  "interests": [
+    "Maths",
+    "Art"
+  ],
+  "subscribers": [
+    "bob.berk12",
+    "chrystia16",
+    "kosinets",
+    "bluebear",
+    "pavlynaaa",
+    "levko"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535ae1340d341672baf809b"
+  },
+  "first_name": "Jenna",
+  "surname": "Rice",
+  "username": "red.juice",
+  "password": "8888",
+  "email": "jenna.rice@gmail.com",
+  "interests": [
+    "Programming"
+  ],
+  "subscribers": [
+    "juliagrey",
+    "bob.berk12",
+    "levko",
+    "pavlynaaa",
+    "bluebear"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535ae1340d341672baf809c"
+  },
+  "first_name": "Nastya",
+  "surname": "Gulin",
+  "username": "nastka",
+  "password": "9999",
+  "email": "nastiaaa@gmail.com",
+  "interests": [
+    "Cooking",
+    "Art"
+  ],
+  "subscribers": [
+    "pavlynaaa",
+    "red.juice",
+    "markBig",
+    "levko",
+    "bob.berk12"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653833eab239fa90955e90b7"
+  },
+  "first_name": "Anna",
+  "surname": "Kupyn",
+  "username": "anna19",
+  "password": "6565",
+  "email": null,
+  "interests": null,
+  "subscribers": []
+}]
